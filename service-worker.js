@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/makub/precache-manifest.74d80e0665d0731cee5d7aacfe3a4d30.js"
+  "/makub/precache-manifest.4577c124fe966dfdfb13798f577f3970.js"
 );
 
 workbox.clientsClaim();
