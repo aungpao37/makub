@@ -1,13 +1,13 @@
 {
-  "main.css": "/Projects/static/css/main.305bb8ac.chunk.css",
-  "main.js": "/Projects/static/js/main.c5ff9868.chunk.js",
-  "main.js.map": "/Projects/static/js/main.c5ff9868.chunk.js.map",
-  "runtime~main.js": "/Projects/static/js/runtime~main.417604dc.js",
-  "runtime~main.js.map": "/Projects/static/js/runtime~main.417604dc.js.map",
-  "static/js/2.d6a534e5.chunk.js": "/Projects/static/js/2.d6a534e5.chunk.js",
-  "static/js/2.d6a534e5.chunk.js.map": "/Projects/static/js/2.d6a534e5.chunk.js.map",
-  "index.html": "/Projects/index.html",
-  "precache-manifest.2a2a9bbaff44c2a10c2290e217802024.js": "/Projects/precache-manifest.2a2a9bbaff44c2a10c2290e217802024.js",
-  "service-worker.js": "/Projects/service-worker.js",
-  "static/css/main.305bb8ac.chunk.css.map": "/Projects/static/css/main.305bb8ac.chunk.css.map"
+  "main.css": "/makub/static/css/main.305bb8ac.chunk.css",
+  "main.js": "/makub/static/js/main.5f4e7a95.chunk.js",
+  "main.js.map": "/makub/static/js/main.5f4e7a95.chunk.js.map",
+  "runtime~main.js": "/makub/static/js/runtime~main.c40db0b1.js",
+  "runtime~main.js.map": "/makub/static/js/runtime~main.c40db0b1.js.map",
+  "static/js/2.d6a534e5.chunk.js": "/makub/static/js/2.d6a534e5.chunk.js",
+  "static/js/2.d6a534e5.chunk.js.map": "/makub/static/js/2.d6a534e5.chunk.js.map",
+  "index.html": "/makub/index.html",
+  "precache-manifest.74d80e0665d0731cee5d7aacfe3a4d30.js": "/makub/precache-manifest.74d80e0665d0731cee5d7aacfe3a4d30.js",
+  "service-worker.js": "/makub/service-worker.js",
+  "static/css/main.305bb8ac.chunk.css.map": "/makub/static/css/main.305bb8ac.chunk.css.map"
 }
